@@ -1,11 +1,17 @@
 <h1 align="center">Hi👋, Diya's speaking to you</h1>
-<h3 align="center">A back end/polyglot developer</h3>
+<h3 align="center">Back End Developer</h3>
 
 ## About Me
 
 Hi. I'm Diyar Qobadi, a passionate, back end and polyglot developer focused on making things a little bit better.
 
 I've been developing Telegram bots for almost two years and currently trying to improve my skills in django, front end basics and web development altogether. 
+
+🌱 Learning...
+  - django
+  - css
+  - git
+  - design patterns
 
 ## My Skills
 
@@ -28,25 +34,22 @@ I've been developing Telegram bots for almost two years and currently trying to 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diyadude&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diyadude&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=diyadude&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diyadude&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## Connect with me
+<h3 align="center" >Need me? </h3>
 
 <div align="center">
-  <p>
-    🔗 Need me? 
   <a href="mailto:diyabedson@gmail.com" target="Email">
-    Email
+    <img src="https://img.icons8.com/?size=38&id=CXYJjRfKlwI9&format=png&color=000000" />
   </a>
-    |
+      
   <a href="https://linkedin.com/in/diyadude" target="LinkedIn">
-    LinkedIn
+    <img src="https://img.icons8.com/?size=36&id=60ZV_wYC0BM2&format=png&color=000000"/>
   </a>
-    |
+      
   <a href="https://t.me/diyadude" target="Telegram">
-    Telegram
+    <img src="https://img.icons8.com/?size=38&id=UIL5ogsYIbpU&format=png&color=000000"/>
   </a>
-  </p>
 </div>
