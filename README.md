@@ -3,15 +3,16 @@
 
 ## About Me
 
-Hi. I'm Diyar Qobadi, a passionate, back end and polyglot developer focused on making things a little bit better.
+Hi. I'm Diyar Qobadi, a passionate, **back end** and **polyglot** developer focused on making things a little bit better.
 
-I've been developing Telegram bots for almost two years and currently trying to improve my skills in django, front end basics and web development altogether. 
+I've been developing **Telegram bots** for almost two years. You can check out some of my related works on my [GitHub account](https://github.com/diyadude). I can definitely help you out with any kind of bot development.
+
+Currently, I'm working on improving my skills in Django, front end basics, and web development as a whole. 
 
 🌱 Learning...
-  - django
-  - css
-  - git
-  - design patterns
+  - **Django**
+  - **CSS**
+  - **Design Patterns**
 
 ## My Skills
 
@@ -29,7 +30,17 @@ I've been developing Telegram bots for almost two years and currently trying to 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="47" alt="git logo"  />
 </div>
+
+## Language Proficiency
+
+**Kurdish**  <span style="color: green; font-size: 25px;">&#9679;&#9679;&#9679;&#9679;&#9679;</span> <br>
+**Persian** <span style="color: green; font-size: 25px;">&#9679;&#9679;&#9679;&#9679;&#9679;</span> <br>
+**English** <span style="color: green; font-size: 25px;">&#9679;&#9679;&#9679;&#9679;&#9679;</span> <br>
+**German** <span style="color: green; font-size: 25px;">&#9679;</span> <br>
+**Russian** <span style="color: green; font-size: 25px;">&#9679;</span>
 
 ## GitHub Stats
 
