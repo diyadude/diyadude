@@ -5,7 +5,7 @@
 
 Hi. I'm Diyar Qobadi, a passionate, **back end** and **polyglot** developer focused on making things a little bit better.
 
-I've been developing **Telegram bots** for almost two years. You can check out some of my related works on my [GitHub account](https://github.com/diyadude). I can definitely help you out with any kind of bot development.
+I've been developing **Telegram bots** for almost two years. You can check out some of my related works on my [GitHub account](https://github.com/diyadude?tab=repositories). I can definitely help you out with any kind of bot development.
 
 Currently, I'm working on improving my skills in Django, front end basics, and web development as a whole. 
 
@@ -34,19 +34,11 @@ Currently, I'm working on improving my skills in Django, front end basics, and w
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="47" alt="git logo"  />
 </div>
 
-## Language Proficiency
-
-**Kurdish**  <span style="color: green; font-size: 25px;">&#9679;&#9679;&#9679;&#9679;&#9679;</span> <br>
-**Persian** <span style="color: green; font-size: 25px;">&#9679;&#9679;&#9679;&#9679;&#9679;</span> <br>
-**English** <span style="color: green; font-size: 25px;">&#9679;&#9679;&#9679;&#9679;&#9679;</span> <br>
-**German** <span style="color: green; font-size: 25px;">&#9679;</span> <br>
-**Russian** <span style="color: green; font-size: 25px;">&#9679;</span>
-
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=diyadude&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diyadude&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diyadude&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=react&hide_border=false&order=2" height="120" alt="languages graph"  /> -->
 </div>
 
 <h3 align="center" >Need me? </h3>
