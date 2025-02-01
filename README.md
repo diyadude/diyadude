@@ -5,14 +5,19 @@
 
 Hi. I'm Diyar Qobadi, a passionate, **back end** and **polyglot** developer focused on making things a little bit better.
 
-I've been developing **Telegram bots** for almost two years. You can check out some of my related works on my [GitHub account](https://github.com/diyadude?tab=repositories). I can definitely help you out with any kind of bot development.
+I've been developing **Telegram bots** with **Python** for almost two years. You can check out some of my related works on my [GitHub account](https://github.com/diyadude?tab=repositories). I can definitely help you out with any kind of bot development.
 
-Currently, I'm working on improving my skills in Django, front end basics, and web development as a whole. 
+Currently, I'm working on improving my skills in **Django**, front end basics, and web development as a whole. 
 
 🌱 Learning...
-  - **Django**
-  - **CSS**
-  - **Design Patterns**
+  - **Back End**
+      - Django
+      - Django Rest Framework
+  - **Front End**
+      - CSS
+  - **More**
+      - Design Patterns
+      - Clean Code
 
 ## My Skills
 
