@@ -1,9 +1,12 @@
-<h1 align="center">Hi👋, Diya's speaking to you</h1>
-<h3 align="center">Back End Developer</h3>
+<div align="center">
+  <img src="https://media1.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif?cid=6c09b9529oevjtj3hh74gyuejpx2lnpjawo757js929ah4c6&ep=v1_stickers_search&rid=giphy.gif&ct=s" height=100/>
+  <h1>Diya's speaking to you</h1>
+</div>
+<br>
 
 ## About Me
 
-> Hi. I'm Diyar Qobadi, a `passionate`, `back end` and `polyglot` developer focused on making things a little bit better.
+> Hi. I'm Diyar Qobadi, a `passionate`, `back end`, and `polyglot` developer focused on making things a little bit better.
 
 I've been developing **Telegram bots** with **Python** for almost two years. You can check out some of my related works on my [GitHub account](https://github.com/diyadude?tab=repositories). I can definitely help you out with any kind of bot development.
 
@@ -41,22 +44,23 @@ Currently, I'm working on improving my skills in **Django**, front end basics, a
 
 ## GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=diyadude&show_icons=true&theme=react" width=400>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyadude&show_icons=true&theme=react)
-
-
-<h3 align="center" >Need me? </h3>
+<hr>
+<h3 align="left">Need me?</h3>
 
 <div align="center">
-  <a href="mailto:diyabedson@gmail.com" target="Email">
-    <img src="https://img.icons8.com/?size=38&id=CXYJjRfKlwI9&format=png&color=000000" />
+  
+  <a href="https://linkedin.com/in/diyadude" alt="LinkedIn">
+    <img src="https://img.icons8.com/?size=37&id=447&format=png&color=000000"/>
   </a>
-      
-  <a href="https://linkedin.com/in/diyadude" target="LinkedIn">
-    <img src="https://img.icons8.com/?size=36&id=60ZV_wYC0BM2&format=png&color=000000"/>
+
+  <a href="mailto:diyabedson@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/?size=37&id=12580&format=png&color=000000" />
   </a>
-      
-  <a href="https://t.me/diyadude" target="Telegram">
-    <img src="https://img.icons8.com/?size=38&id=UIL5ogsYIbpU&format=png&color=000000"/>
+
+  <a href="https://t.me/diyadude" alt="Telegram">
+    <img src="https://img.icons8.com/?size=38&id=TCnKnYZFoOzM&format=png&color=000000"/>
   </a>
+  
 </div>
