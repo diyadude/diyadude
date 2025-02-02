@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi. I'm Diyar Qobadi, a passionate, **back end** and **polyglot** developer focused on making things a little bit better.
+> Hi. I'm Diyar Qobadi, a `passionate`, `back end` and `polyglot` developer focused on making things a little bit better.
 
 I've been developing **Telegram bots** with **Python** for almost two years. You can check out some of my related works on my [GitHub account](https://github.com/diyadude?tab=repositories). I can definitely help you out with any kind of bot development.
 
