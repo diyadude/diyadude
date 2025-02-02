@@ -52,15 +52,15 @@ Currently, I'm working on improving my skills in **Django**, front end basics, a
 <div align="center">
   
   <a href="https://linkedin.com/in/diyadude" alt="LinkedIn">
-    <img src="https://img.icons8.com/?size=37&id=447&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=35&id=Fto28UC6Owy0&format=png&color=000000"/>
   </a>
 
   <a href="mailto:diyabedson@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/?size=37&id=12580&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=35&id=xUcPGt4RSGJl&format=png&color=000000" />
   </a>
 
   <a href="https://t.me/diyadude" alt="Telegram">
-    <img src="https://img.icons8.com/?size=38&id=TCnKnYZFoOzM&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=35&id=T3Os1b5HAl8v&format=png&color=5B5B5B"/>
   </a>
   
 </div>
