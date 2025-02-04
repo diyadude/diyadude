@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif?cid=6c09b9529oevjtj3hh74gyuejpx2lnpjawo757js929ah4c6&ep=v1_stickers_search&rid=giphy.gif&ct=s" height=100/>
-  <h1>Diya's speaking to you</h1>
+  <h1>Diya is speaking to you</h1>
 </div>
 <br>
 
@@ -13,14 +13,22 @@ I've been developing **Telegram bots** with **Python** for almost two years. You
 Currently, I'm working on improving my skills in **Django**, front end basics, and web development as a whole. 
 
 🌱 Learning...
-  - **Back End**
+  - Back End
       - Django
       - Django Rest Framework
-  - **Front End**
+      - FastAPI
+      - Docker
+      - MongoDB
+  - Front End (basics)
       - CSS
-  - **More**
+      - JavaScript
+  - More
+      - Unit Testing (Python)
       - Design Patterns
+      - PEP 8
       - Clean Code
+      - GitHub Actions
+      - OOP
 
 ## My Skills
 
