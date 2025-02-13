@@ -12,6 +12,8 @@ I've been developing **Telegram bots** with **Python** for almost two years. You
 
 Currently, I'm working on improving my skills in **Django**, front end basics, and web development as a whole. 
 
+I love Linux )
+
 🌱 Learning...
   - Back End
       - Django
@@ -20,7 +22,6 @@ Currently, I'm working on improving my skills in **Django**, front end basics, a
       - Docker
       - MongoDB
   - Front End (basics)
-      - CSS
       - JavaScript
   - More
       - Unit Testing (Python)
