@@ -32,9 +32,9 @@ I love Linux )
 ## My Skills
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=MjuloYXjXHYT&format=png&color=000000" height="38" alt="javascript logo"  />
+  <img src="https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000" height="45" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
