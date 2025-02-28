@@ -15,19 +15,8 @@ Currently, I'm working on improving my skills in **Django**, front end basics, a
 I love Linux )
 
 🌱 Learning...
-  - Back End
-      - Django
-      - Django Rest Framework
-      - FastAPI
-      - Docker
-      - MongoDB
-  - More
-      - Unit Testing (Python)
-      - Design Patterns
-      - PEP 8
-      - Clean Code
-      - GitHub Actions
-      - OOP
+  - Back End concepts
+  - Clean and efficient coding 
 
 ## My Skills
 
